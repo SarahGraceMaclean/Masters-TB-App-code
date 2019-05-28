@@ -1,14 +1,7 @@
 import numpy as np
 import cv2
 from skimage import data
-import matplotlib.pyplot as plt
-from skimage import io
 
-import skimage.data as data
-import skimage.segmentation as seg
-import skimage.filters as filters
-import skimage.draw as draw
-import skimage.color as color
 
 images = ['1 (1)',
         '1 (2)',
